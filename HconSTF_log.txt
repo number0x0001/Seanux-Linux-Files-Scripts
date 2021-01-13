@@ -1,0 +1,2 @@
+(none) GET http://proxylist.co/get_ip_country.php
+(none) GET http://proxylist.co/ff_proxies.txt
